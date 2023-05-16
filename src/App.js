@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import GatorEvents from './components/gators';
 
