@@ -1,0 +1,1939 @@
+<?xml version="1.0"?>
+<ttReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ttReportRow>
+    <sadetail_begindate>05/19/2023</sadetail_begindate>
+    <sadetail_enddate>05/19/2023</sadetail_enddate>
+    <sadetail_begintime> 1:00 pm</sadetail_begintime>
+    <sadetail_endtime> 2:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>Meeting2</frfacility_facilitycode>
+    <sadetail_description>Meeting Room (231) on 05/19/2023 at  1:00 pm to  2:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Meeting Room (231)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 1:00 pm -  2:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Summer Staff Planning Meeting</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>886</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Olague, Jessica</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>Meeting2</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-19</sadetail_begindate_sort>
+    <DT_RowId>9559072</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>5</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime> 1:00 pm</sadetail_begintime>
+    <sadetail_endtime> 3:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>Courtyard</frfacility_facilitycode>
+    <sadetail_description>Courtyard on 05/17/2023 at  1:00 pm to  3:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Courtyard</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 1:00 pm -  3:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Day Trips 2</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>987</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Schulte, Peytan</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>COURTYARD</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>Courtyard</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>9760879</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>6</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime> 1:00 pm</sadetail_begintime>
+    <sadetail_endtime> 3:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC2</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 2 (124) on 05/17/2023 at  1:00 pm to  3:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 2 (124)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 1:00 pm -  3:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Day Trips 2</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>990</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Schulte, Peytan</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC2</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>9761004</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>7</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime> 1:00 pm</sadetail_begintime>
+    <sadetail_endtime> 3:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1, 2, 3 (124 &amp; 125) on 05/17/2023 at  1:00 pm to  3:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1, 2, 3 (124 &amp; 125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 1:00 pm -  3:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Day Trips 2</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>990</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Schulte, Peytan</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>9761005</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>8</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime> 1:00 pm</sadetail_begintime>
+    <sadetail_endtime> 3:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO2</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 2 &amp; 3 (124 ) on 05/17/2023 at  1:00 pm to  3:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 2 &amp; 3 (124 )</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 1:00 pm -  3:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Day Trips 2</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>990</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Schulte, Peytan</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO2</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>9761006</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>9</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime> 4:00 pm</sadetail_begintime>
+    <sadetail_endtime> 5:45 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC5</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 5 (204) on 05/17/2023 at  4:00 pm to  5:45 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 5 (204)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 4:00 pm -  5:45 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose/>
+    <sadetail_reservationnumber_sort>1013</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Sharrar, Koren</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC5</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>9797843</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>10</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/20/2023</sadetail_begindate>
+    <sadetail_enddate>05/20/2023</sadetail_enddate>
+    <sadetail_begintime> 1:00 pm</sadetail_begintime>
+    <sadetail_endtime> 3:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>Kitchen</frfacility_facilitycode>
+    <sadetail_description>Kitchen (128) on 05/20/2023 at  1:00 pm to  3:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Kitchen (128)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 1:00 pm -  3:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Social Squad/Weekenders</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1018</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Sharrar, Koren</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>KITCH</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>Kitchen</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-20</sadetail_begindate_sort>
+    <DT_RowId>9798083</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>11</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/20/2023</sadetail_begindate>
+    <sadetail_enddate>05/20/2023</sadetail_enddate>
+    <sadetail_begintime> 1:00 pm</sadetail_begintime>
+    <sadetail_endtime> 3:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC1</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1 (125) on 05/20/2023 at  1:00 pm to  3:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1 (125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 1:00 pm -  3:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Social Squad/Weekenders</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1018</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Sharrar, Koren</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC1</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-20</sadetail_begindate_sort>
+    <DT_RowId>9798143</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>14</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/20/2023</sadetail_begindate>
+    <sadetail_enddate>05/20/2023</sadetail_enddate>
+    <sadetail_begintime> 1:00 pm</sadetail_begintime>
+    <sadetail_endtime> 3:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC2</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 2 (124) on 05/20/2023 at  1:00 pm to  3:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 2 (124)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 1:00 pm -  3:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Social Squad/Weekenders</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1018</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Sharrar, Koren</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC2</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-20</sadetail_begindate_sort>
+    <DT_RowId>9798144</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>15</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/20/2023</sadetail_begindate>
+    <sadetail_enddate>05/20/2023</sadetail_enddate>
+    <sadetail_begintime> 1:00 pm</sadetail_begintime>
+    <sadetail_endtime> 3:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC3</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 3 (124) on 05/20/2023 at  1:00 pm to  3:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 3 (124)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 1:00 pm -  3:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Social Squad/Weekenders</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1018</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Sharrar, Koren</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC3</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-20</sadetail_begindate_sort>
+    <DT_RowId>9798145</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>16</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/20/2023</sadetail_begindate>
+    <sadetail_enddate>05/20/2023</sadetail_enddate>
+    <sadetail_begintime> 1:00 pm</sadetail_begintime>
+    <sadetail_endtime> 3:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC4</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 4 (203) on 05/20/2023 at  1:00 pm to  3:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 4 (203)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 1:00 pm -  3:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose/>
+    <sadetail_reservationnumber_sort>1018</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Sharrar, Koren</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC4</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-20</sadetail_begindate_sort>
+    <DT_RowId>9798240</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>17</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/20/2023</sadetail_begindate>
+    <sadetail_enddate>05/20/2023</sadetail_enddate>
+    <sadetail_begintime> 1:00 pm</sadetail_begintime>
+    <sadetail_endtime> 3:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC5</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 5 (204) on 05/20/2023 at  1:00 pm to  3:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 5 (204)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 1:00 pm -  3:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Social Squad/Weekenders</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1018</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Sharrar, Koren</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC5</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-20</sadetail_begindate_sort>
+    <DT_RowId>9798266</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>18</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/20/2023</sadetail_begindate>
+    <sadetail_enddate>05/20/2023</sadetail_enddate>
+    <sadetail_begintime> 1:00 pm</sadetail_begintime>
+    <sadetail_endtime> 3:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1, 2, 3 (124 &amp; 125) on 05/20/2023 at  1:00 pm to  3:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1, 2, 3 (124 &amp; 125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 1:00 pm -  3:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Social Squad/Weekenders</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1018</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Sharrar, Koren</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-20</sadetail_begindate_sort>
+    <DT_RowId>9798141</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>12</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/20/2023</sadetail_begindate>
+    <sadetail_enddate>05/20/2023</sadetail_enddate>
+    <sadetail_begintime> 1:00 pm</sadetail_begintime>
+    <sadetail_endtime> 3:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO2</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 2 &amp; 3 (124 ) on 05/20/2023 at  1:00 pm to  3:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 2 &amp; 3 (124 )</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 1:00 pm -  3:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Social Squad/Weekenders</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1018</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Sharrar, Koren</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO2</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-20</sadetail_begindate_sort>
+    <DT_RowId>9798142</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>13</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/21/2023</sadetail_begindate>
+    <sadetail_enddate>05/21/2023</sadetail_enddate>
+    <sadetail_begintime> 5:30 pm</sadetail_begintime>
+    <sadetail_endtime> 7:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC1</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1 (125) on 05/21/2023 at  5:30 pm to  7:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1 (125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 5:30 pm -  7:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Abracadabra Special Event</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1024</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Mendoza, Stephany</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC1</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-21</sadetail_begindate_sort>
+    <DT_RowId>9800171</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>19</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/21/2023</sadetail_begindate>
+    <sadetail_enddate>05/21/2023</sadetail_enddate>
+    <sadetail_begintime> 5:30 pm</sadetail_begintime>
+    <sadetail_endtime> 7:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1, 2, 3 (124 &amp; 125) on 05/21/2023 at  5:30 pm to  7:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1, 2, 3 (124 &amp; 125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 5:30 pm -  7:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Abracadabra Special Event</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1024</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Mendoza, Stephany</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-21</sadetail_begindate_sort>
+    <DT_RowId>9800172</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>20</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/20/2023</sadetail_begindate>
+    <sadetail_enddate>05/20/2023</sadetail_enddate>
+    <sadetail_begintime>10:30 am</sadetail_begintime>
+    <sadetail_endtime>12:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>Kitchen</frfacility_facilitycode>
+    <sadetail_description>Kitchen (128) on 05/20/2023 at 10:30 am to 12:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Kitchen (128)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>10:30 am - 12:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Healthy Living</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1027</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Schulte, Peytan</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>KITCH</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>Kitchen</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-20</sadetail_begindate_sort>
+    <DT_RowId>9800396</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>21</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime> 5:30 pm</sadetail_begintime>
+    <sadetail_endtime> 7:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC2</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 2 (124) on 05/17/2023 at  5:30 pm to  7:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 2 (124)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 5:30 pm -  7:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>530001-05 (Safety Training)</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1052</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Northern Suburban SRA, Resident</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC2</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>9858660</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>24</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime> 5:30 pm</sadetail_begintime>
+    <sadetail_endtime> 7:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC3</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 3 (124) on 05/17/2023 at  5:30 pm to  7:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 3 (124)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 5:30 pm -  7:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>530001-05 (Safety Training)</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1052</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Northern Suburban SRA, Resident</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC3</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>9858661</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>25</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime> 5:30 pm</sadetail_begintime>
+    <sadetail_endtime> 7:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1, 2, 3 (124 &amp; 125) on 05/17/2023 at  5:30 pm to  7:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1, 2, 3 (124 &amp; 125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 5:30 pm -  7:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>530001-05 (Safety Training)</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1052</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Northern Suburban SRA, Resident</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>9858659</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>23</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime> 5:30 pm</sadetail_begintime>
+    <sadetail_endtime> 7:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO2</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 2 &amp; 3 (124 ) on 05/17/2023 at  5:30 pm to  7:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 2 &amp; 3 (124 )</sadetail_itemdescription>
+    <sadetail_reservationtype>Activity</sadetail_reservationtype>
+    <sadetail_timeperiod> 5:30 pm -  7:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>530001-05 (Safety Training)</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1052</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Northern Suburban SRA, Resident</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO2</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>9858658</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>22</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/22/2023</sadetail_begindate>
+    <sadetail_enddate>05/22/2023</sadetail_enddate>
+    <sadetail_begintime> 6:30 pm</sadetail_begintime>
+    <sadetail_endtime> 8:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC1</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1 (125) on 05/22/2023 at  6:30 pm to  8:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1 (125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 6:30 pm -  8:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>530002-02 (Seasonal Program Meeting)</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1057</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Northern Suburban SRA, Resident</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC1</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-22</sadetail_begindate_sort>
+    <DT_RowId>9858743</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>28</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/22/2023</sadetail_begindate>
+    <sadetail_enddate>05/22/2023</sadetail_enddate>
+    <sadetail_begintime> 6:30 pm</sadetail_begintime>
+    <sadetail_endtime> 8:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC2</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 2 (124) on 05/22/2023 at  6:30 pm to  8:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 2 (124)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 6:30 pm -  8:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>530002-02 (Seasonal Program Meeting)</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1057</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Northern Suburban SRA, Resident</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC2</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-22</sadetail_begindate_sort>
+    <DT_RowId>9858744</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>29</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/22/2023</sadetail_begindate>
+    <sadetail_enddate>05/22/2023</sadetail_enddate>
+    <sadetail_begintime> 6:30 pm</sadetail_begintime>
+    <sadetail_endtime> 8:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC3</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 3 (124) on 05/22/2023 at  6:30 pm to  8:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 3 (124)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 6:30 pm -  8:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>530002-02 (Seasonal Program Meeting)</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1057</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Northern Suburban SRA, Resident</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC3</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-22</sadetail_begindate_sort>
+    <DT_RowId>9858745</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>30</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/22/2023</sadetail_begindate>
+    <sadetail_enddate>05/22/2023</sadetail_enddate>
+    <sadetail_begintime> 6:30 pm</sadetail_begintime>
+    <sadetail_endtime> 8:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1, 2, 3 (124 &amp; 125) on 05/22/2023 at  6:30 pm to  8:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1, 2, 3 (124 &amp; 125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Activity</sadetail_reservationtype>
+    <sadetail_timeperiod> 6:30 pm -  8:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>530002-02 (Seasonal Program Meeting)</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1057</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Northern Suburban SRA, Resident</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-22</sadetail_begindate_sort>
+    <DT_RowId>9858741</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>26</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/22/2023</sadetail_begindate>
+    <sadetail_enddate>05/22/2023</sadetail_enddate>
+    <sadetail_begintime> 6:30 pm</sadetail_begintime>
+    <sadetail_endtime> 8:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO2</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 2 &amp; 3 (124 ) on 05/22/2023 at  6:30 pm to  8:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 2 &amp; 3 (124 )</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 6:30 pm -  8:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>530002-02 (Seasonal Program Meeting)</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1057</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Northern Suburban SRA, Resident</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO2</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-22</sadetail_begindate_sort>
+    <DT_RowId>9858742</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>27</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/24/2023</sadetail_begindate>
+    <sadetail_enddate>05/24/2023</sadetail_enddate>
+    <sadetail_begintime> 5:00 pm</sadetail_begintime>
+    <sadetail_endtime> 7:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC2</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 2 (124) on 05/24/2023 at  5:00 pm to  7:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 2 (124)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 5:00 pm -  7:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>530006-01 (New Driver Training)</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1071</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Northern Suburban SRA, Resident</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC2</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-24</sadetail_begindate_sort>
+    <DT_RowId>9858958</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>3</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/24/2023</sadetail_begindate>
+    <sadetail_enddate>05/24/2023</sadetail_enddate>
+    <sadetail_begintime> 5:00 pm</sadetail_begintime>
+    <sadetail_endtime> 7:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC3</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 3 (124) on 05/24/2023 at  5:00 pm to  7:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 3 (124)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 5:00 pm -  7:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>530006-01 (New Driver Training)</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1071</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Northern Suburban SRA, Resident</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC3</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-24</sadetail_begindate_sort>
+    <DT_RowId>9858959</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>4</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/24/2023</sadetail_begindate>
+    <sadetail_enddate>05/24/2023</sadetail_enddate>
+    <sadetail_begintime> 5:00 pm</sadetail_begintime>
+    <sadetail_endtime> 7:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1, 2, 3 (124 &amp; 125) on 05/24/2023 at  5:00 pm to  7:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1, 2, 3 (124 &amp; 125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 5:00 pm -  7:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>530006-01 (New Driver Training)</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1071</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Northern Suburban SRA, Resident</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-24</sadetail_begindate_sort>
+    <DT_RowId>9858957</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>2</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/24/2023</sadetail_begindate>
+    <sadetail_enddate>05/24/2023</sadetail_enddate>
+    <sadetail_begintime> 5:00 pm</sadetail_begintime>
+    <sadetail_endtime> 7:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO2</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 2 &amp; 3 (124 ) on 05/24/2023 at  5:00 pm to  7:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 2 &amp; 3 (124 )</sadetail_itemdescription>
+    <sadetail_reservationtype>Activity</sadetail_reservationtype>
+    <sadetail_timeperiod> 5:00 pm -  7:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>530006-01 (New Driver Training)</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1071</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Northern Suburban SRA, Resident</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO2</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-24</sadetail_begindate_sort>
+    <DT_RowId>9858956</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>1</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/18/2023</sadetail_begindate>
+    <sadetail_enddate>05/18/2023</sadetail_enddate>
+    <sadetail_begintime> 1:00 pm</sadetail_begintime>
+    <sadetail_endtime> 2:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>Meeting2</frfacility_facilitycode>
+    <sadetail_description>Meeting Room (231) on 05/18/2023 at  1:00 pm to  2:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Meeting Room (231)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 1:00 pm -  2:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Wellness Committee</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1107</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Varner, Chris</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>Meeting2</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-18</sadetail_begindate_sort>
+    <DT_RowId>9860222</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>31</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/23/2023</sadetail_begindate>
+    <sadetail_enddate>05/23/2023</sadetail_enddate>
+    <sadetail_begintime> 4:30 pm</sadetail_begintime>
+    <sadetail_endtime> 8:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>Auditorium</frfacility_facilitycode>
+    <sadetail_description>Auditorium on 05/23/2023 at  4:30 pm to  8:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Auditorium</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 4:30 pm -  8:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Director Training</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1201</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Meggan Davies</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>AUD</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>Auditorium</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-23</sadetail_begindate_sort>
+    <DT_RowId>10216235</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>32</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/23/2023</sadetail_begindate>
+    <sadetail_enddate>05/23/2023</sadetail_enddate>
+    <sadetail_begintime> 4:30 pm</sadetail_begintime>
+    <sadetail_endtime> 8:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC1</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1 (125) on 05/23/2023 at  4:30 pm to  8:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1 (125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 4:30 pm -  8:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Director Training</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1202</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Meggan Davies</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC1</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-23</sadetail_begindate_sort>
+    <DT_RowId>10216243</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>33</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/23/2023</sadetail_begindate>
+    <sadetail_enddate>05/23/2023</sadetail_enddate>
+    <sadetail_begintime> 4:30 pm</sadetail_begintime>
+    <sadetail_endtime> 8:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1, 2, 3 (124 &amp; 125) on 05/23/2023 at  4:30 pm to  8:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1, 2, 3 (124 &amp; 125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 4:30 pm -  8:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Director Training</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1202</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Meggan Davies</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-23</sadetail_begindate_sort>
+    <DT_RowId>10216244</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>34</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime> 9:00 am</sadetail_begintime>
+    <sadetail_endtime>10:30 am</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>Meeting2</frfacility_facilitycode>
+    <sadetail_description>Meeting Room (231) on 05/17/2023 at  9:00 am to 10:30 am at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Meeting Room (231)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 9:00 am - 10:30 am</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Employee Satisfaction Committee</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1224</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Craig Culp</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>Meeting2</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>10281870</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>35</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime> 8:30 am</sadetail_begintime>
+    <sadetail_endtime> 3:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC1</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1 (125) on 05/17/2023 at  8:30 am to  3:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1 (125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 8:30 am -  3:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1279</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC1</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>10364812</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>36</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/18/2023</sadetail_begindate>
+    <sadetail_enddate>05/18/2023</sadetail_enddate>
+    <sadetail_begintime> 8:30 am</sadetail_begintime>
+    <sadetail_endtime> 3:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC1</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1 (125) on 05/18/2023 at  8:30 am to  3:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1 (125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 8:30 am -  3:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1279</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC1</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-18</sadetail_begindate_sort>
+    <DT_RowId>10364814</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>38</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/19/2023</sadetail_begindate>
+    <sadetail_enddate>05/19/2023</sadetail_enddate>
+    <sadetail_begintime> 8:30 am</sadetail_begintime>
+    <sadetail_endtime> 3:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC1</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1 (125) on 05/19/2023 at  8:30 am to  3:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1 (125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 8:30 am -  3:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1279</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC1</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-19</sadetail_begindate_sort>
+    <DT_RowId>10364816</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>40</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/22/2023</sadetail_begindate>
+    <sadetail_enddate>05/22/2023</sadetail_enddate>
+    <sadetail_begintime> 8:30 am</sadetail_begintime>
+    <sadetail_endtime> 3:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC1</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1 (125) on 05/22/2023 at  8:30 am to  3:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1 (125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 8:30 am -  3:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1279</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC1</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-22</sadetail_begindate_sort>
+    <DT_RowId>10364818</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>42</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/23/2023</sadetail_begindate>
+    <sadetail_enddate>05/23/2023</sadetail_enddate>
+    <sadetail_begintime> 8:30 am</sadetail_begintime>
+    <sadetail_endtime> 3:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC1</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1 (125) on 05/23/2023 at  8:30 am to  3:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1 (125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 8:30 am -  3:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1279</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC1</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-23</sadetail_begindate_sort>
+    <DT_RowId>10364820</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>44</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/24/2023</sadetail_begindate>
+    <sadetail_enddate>05/24/2023</sadetail_enddate>
+    <sadetail_begintime> 8:30 am</sadetail_begintime>
+    <sadetail_endtime> 3:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC1</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1 (125) on 05/24/2023 at  8:30 am to  3:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1 (125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 8:30 am -  3:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1279</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC1</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-24</sadetail_begindate_sort>
+    <DT_RowId>10364822</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>46</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime> 8:30 am</sadetail_begintime>
+    <sadetail_endtime> 3:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1, 2, 3 (124 &amp; 125) on 05/17/2023 at  8:30 am to  3:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1, 2, 3 (124 &amp; 125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 8:30 am -  3:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1279</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>10364813</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>37</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/18/2023</sadetail_begindate>
+    <sadetail_enddate>05/18/2023</sadetail_enddate>
+    <sadetail_begintime> 8:30 am</sadetail_begintime>
+    <sadetail_endtime> 3:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1, 2, 3 (124 &amp; 125) on 05/18/2023 at  8:30 am to  3:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1, 2, 3 (124 &amp; 125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 8:30 am -  3:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1279</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-18</sadetail_begindate_sort>
+    <DT_RowId>10364815</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>39</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/19/2023</sadetail_begindate>
+    <sadetail_enddate>05/19/2023</sadetail_enddate>
+    <sadetail_begintime> 8:30 am</sadetail_begintime>
+    <sadetail_endtime> 3:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1, 2, 3 (124 &amp; 125) on 05/19/2023 at  8:30 am to  3:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1, 2, 3 (124 &amp; 125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 8:30 am -  3:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1279</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-19</sadetail_begindate_sort>
+    <DT_RowId>10364817</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>41</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/22/2023</sadetail_begindate>
+    <sadetail_enddate>05/22/2023</sadetail_enddate>
+    <sadetail_begintime> 8:30 am</sadetail_begintime>
+    <sadetail_endtime> 3:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1, 2, 3 (124 &amp; 125) on 05/22/2023 at  8:30 am to  3:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1, 2, 3 (124 &amp; 125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 8:30 am -  3:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1279</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-22</sadetail_begindate_sort>
+    <DT_RowId>10364819</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>43</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/23/2023</sadetail_begindate>
+    <sadetail_enddate>05/23/2023</sadetail_enddate>
+    <sadetail_begintime> 8:30 am</sadetail_begintime>
+    <sadetail_endtime> 3:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1, 2, 3 (124 &amp; 125) on 05/23/2023 at  8:30 am to  3:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1, 2, 3 (124 &amp; 125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 8:30 am -  3:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1279</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-23</sadetail_begindate_sort>
+    <DT_RowId>10364821</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>45</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/24/2023</sadetail_begindate>
+    <sadetail_enddate>05/24/2023</sadetail_enddate>
+    <sadetail_begintime> 8:30 am</sadetail_begintime>
+    <sadetail_endtime> 3:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1, 2, 3 (124 &amp; 125) on 05/24/2023 at  8:30 am to  3:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1, 2, 3 (124 &amp; 125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 8:30 am -  3:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1279</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-24</sadetail_begindate_sort>
+    <DT_RowId>10364823</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>47</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime>10:45 am</sadetail_begintime>
+    <sadetail_endtime>11:30 am</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC4</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 4 (203) on 05/17/2023 at 10:45 am to 11:30 am at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 4 (203)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>10:45 am - 11:30 am</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1287</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC4</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>10366423</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>48</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/18/2023</sadetail_begindate>
+    <sadetail_enddate>05/18/2023</sadetail_enddate>
+    <sadetail_begintime>10:45 am</sadetail_begintime>
+    <sadetail_endtime>11:30 am</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC4</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 4 (203) on 05/18/2023 at 10:45 am to 11:30 am at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 4 (203)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>10:45 am - 11:30 am</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1287</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC4</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-18</sadetail_begindate_sort>
+    <DT_RowId>10366424</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>49</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/19/2023</sadetail_begindate>
+    <sadetail_enddate>05/19/2023</sadetail_enddate>
+    <sadetail_begintime>10:45 am</sadetail_begintime>
+    <sadetail_endtime>11:30 am</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC4</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 4 (203) on 05/19/2023 at 10:45 am to 11:30 am at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 4 (203)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>10:45 am - 11:30 am</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1287</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC4</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-19</sadetail_begindate_sort>
+    <DT_RowId>10366425</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>50</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/22/2023</sadetail_begindate>
+    <sadetail_enddate>05/22/2023</sadetail_enddate>
+    <sadetail_begintime>10:45 am</sadetail_begintime>
+    <sadetail_endtime>11:30 am</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC4</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 4 (203) on 05/22/2023 at 10:45 am to 11:30 am at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 4 (203)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>10:45 am - 11:30 am</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1287</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC4</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-22</sadetail_begindate_sort>
+    <DT_RowId>10366426</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>51</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/24/2023</sadetail_begindate>
+    <sadetail_enddate>05/24/2023</sadetail_enddate>
+    <sadetail_begintime>10:45 am</sadetail_begintime>
+    <sadetail_endtime>11:30 am</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC4</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 4 (203) on 05/24/2023 at 10:45 am to 11:30 am at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 4 (203)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>10:45 am - 11:30 am</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1287</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC4</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-24</sadetail_begindate_sort>
+    <DT_RowId>10366427</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>52</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/23/2023</sadetail_begindate>
+    <sadetail_enddate>05/23/2023</sadetail_enddate>
+    <sadetail_begintime> 1:15 pm</sadetail_begintime>
+    <sadetail_endtime> 2:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC4</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 4 (203) on 05/23/2023 at  1:15 pm to  2:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 4 (203)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 1:15 pm -  2:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1288</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC4</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-23</sadetail_begindate_sort>
+    <DT_RowId>10366600</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>53</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime>12:30 pm</sadetail_begintime>
+    <sadetail_endtime> 2:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>Kitchen</frfacility_facilitycode>
+    <sadetail_description>Kitchen (128) on 05/17/2023 at 12:30 pm to  2:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Kitchen (128)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>12:30 pm -  2:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1290</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>KITCH</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>Kitchen</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>10366650</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>54</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/24/2023</sadetail_begindate>
+    <sadetail_enddate>05/24/2023</sadetail_enddate>
+    <sadetail_begintime>12:30 pm</sadetail_begintime>
+    <sadetail_endtime> 2:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>Kitchen</frfacility_facilitycode>
+    <sadetail_description>Kitchen (128) on 05/24/2023 at 12:30 pm to  2:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Kitchen (128)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>12:30 pm -  2:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1290</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>KITCH</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>Kitchen</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-24</sadetail_begindate_sort>
+    <DT_RowId>10366651</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>55</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/19/2023</sadetail_begindate>
+    <sadetail_enddate>05/19/2023</sadetail_enddate>
+    <sadetail_begintime>10:00 am</sadetail_begintime>
+    <sadetail_endtime>10:45 am</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC5</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 5 (204) on 05/19/2023 at 10:00 am to 10:45 am at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 5 (204)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>10:00 am - 10:45 am</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1291</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC5</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-19</sadetail_begindate_sort>
+    <DT_RowId>10366707</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>56</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/22/2023</sadetail_begindate>
+    <sadetail_enddate>05/22/2023</sadetail_enddate>
+    <sadetail_begintime>12:30 pm</sadetail_begintime>
+    <sadetail_endtime> 2:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>Kitchen</frfacility_facilitycode>
+    <sadetail_description>Kitchen (128) on 05/22/2023 at 12:30 pm to  2:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Kitchen (128)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>12:30 pm -  2:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1292</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>KITCH</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>Kitchen</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-22</sadetail_begindate_sort>
+    <DT_RowId>10366759</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>57</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime>10:00 am</sadetail_begintime>
+    <sadetail_endtime>10:45 am</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC4</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 4 (203) on 05/17/2023 at 10:00 am to 10:45 am at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 4 (203)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>10:00 am - 10:45 am</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1293</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC4</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>10366833</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>58</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/18/2023</sadetail_begindate>
+    <sadetail_enddate>05/18/2023</sadetail_enddate>
+    <sadetail_begintime>10:00 am</sadetail_begintime>
+    <sadetail_endtime>10:45 am</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC4</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 4 (203) on 05/18/2023 at 10:00 am to 10:45 am at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 4 (203)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>10:00 am - 10:45 am</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1293</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC4</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-18</sadetail_begindate_sort>
+    <DT_RowId>10366834</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>59</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/22/2023</sadetail_begindate>
+    <sadetail_enddate>05/22/2023</sadetail_enddate>
+    <sadetail_begintime>10:00 am</sadetail_begintime>
+    <sadetail_endtime>10:45 am</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC4</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 4 (203) on 05/22/2023 at 10:00 am to 10:45 am at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 4 (203)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>10:00 am - 10:45 am</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1293</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC4</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-22</sadetail_begindate_sort>
+    <DT_RowId>10366835</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>60</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/23/2023</sadetail_begindate>
+    <sadetail_enddate>05/23/2023</sadetail_enddate>
+    <sadetail_begintime>10:00 am</sadetail_begintime>
+    <sadetail_endtime>10:45 am</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC4</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 4 (203) on 05/23/2023 at 10:00 am to 10:45 am at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 4 (203)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>10:00 am - 10:45 am</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1293</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC4</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-23</sadetail_begindate_sort>
+    <DT_RowId>10366836</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>61</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/24/2023</sadetail_begindate>
+    <sadetail_enddate>05/24/2023</sadetail_enddate>
+    <sadetail_begintime>10:00 am</sadetail_begintime>
+    <sadetail_endtime>10:45 am</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC4</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 4 (203) on 05/24/2023 at 10:00 am to 10:45 am at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 4 (203)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>10:00 am - 10:45 am</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1293</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC4</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-24</sadetail_begindate_sort>
+    <DT_RowId>10366837</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>62</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/19/2023</sadetail_begindate>
+    <sadetail_enddate>05/19/2023</sadetail_enddate>
+    <sadetail_begintime>12:30 pm</sadetail_begintime>
+    <sadetail_endtime> 1:15 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC4</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 4 (203) on 05/19/2023 at 12:30 pm to  1:15 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 4 (203)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>12:30 pm -  1:15 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1294</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC4</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-19</sadetail_begindate_sort>
+    <DT_RowId>10367289</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>64</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/19/2023</sadetail_begindate>
+    <sadetail_enddate>05/19/2023</sadetail_enddate>
+    <sadetail_begintime> 1:15 pm</sadetail_begintime>
+    <sadetail_endtime> 2:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC5</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 5 (204) on 05/19/2023 at  1:15 pm to  2:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 5 (204)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 1:15 pm -  2:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1295</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC5</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-19</sadetail_begindate_sort>
+    <DT_RowId>10367210</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>63</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/18/2023</sadetail_begindate>
+    <sadetail_enddate>05/18/2023</sadetail_enddate>
+    <sadetail_begintime> 5:30 pm</sadetail_begintime>
+    <sadetail_endtime> 8:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>Auditorium</frfacility_facilitycode>
+    <sadetail_description>Auditorium on 05/18/2023 at  5:30 pm to  8:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Auditorium</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 5:30 pm -  8:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Singers Showcase Spring Show</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1312</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Nicholas Falter</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>AUD</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>Auditorium</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-18</sadetail_begindate_sort>
+    <DT_RowId>10413447</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>65</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/20/2023</sadetail_begindate>
+    <sadetail_enddate>05/20/2023</sadetail_enddate>
+    <sadetail_begintime>10:30 am</sadetail_begintime>
+    <sadetail_endtime>12:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC1</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1 (125) on 05/20/2023 at 10:30 am to 12:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1 (125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>10:30 am - 12:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose/>
+    <sadetail_reservationnumber_sort>1337</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Schulte, Peytan</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC1</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-20</sadetail_begindate_sort>
+    <DT_RowId>10438163</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>66</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/20/2023</sadetail_begindate>
+    <sadetail_enddate>05/20/2023</sadetail_enddate>
+    <sadetail_begintime>10:30 am</sadetail_begintime>
+    <sadetail_endtime>12:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1, 2, 3 (124 &amp; 125) on 05/20/2023 at 10:30 am to 12:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1, 2, 3 (124 &amp; 125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod>10:30 am - 12:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose/>
+    <sadetail_reservationnumber_sort>1337</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Schulte, Peytan</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-20</sadetail_begindate_sort>
+    <DT_RowId>10438164</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>67</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/20/2023</sadetail_begindate>
+    <sadetail_enddate>05/20/2023</sadetail_enddate>
+    <sadetail_begintime>10:30 am</sadetail_begintime>
+    <sadetail_endtime>12:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC4</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 4 (203) on 05/20/2023 at 10:30 am to 12:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 4 (203)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>10:30 am - 12:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose/>
+    <sadetail_reservationnumber_sort>1338</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Schulte, Peytan</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC4</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-20</sadetail_begindate_sort>
+    <DT_RowId>10438296</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>68</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime> 6:00 pm</sadetail_begintime>
+    <sadetail_endtime> 7:15 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC5</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 5 (204) on 05/17/2023 at  6:00 pm to  7:15 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 5 (204)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 6:00 pm -  7:15 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose/>
+    <sadetail_reservationnumber_sort>1339</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Schulte, Peytan</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC5</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>10438428</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>69</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/20/2023</sadetail_begindate>
+    <sadetail_enddate>05/20/2023</sadetail_enddate>
+    <sadetail_begintime>10:30 am</sadetail_begintime>
+    <sadetail_endtime>12:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC5</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 5 (204) on 05/20/2023 at 10:30 am to 12:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 5 (204)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>10:30 am - 12:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose/>
+    <sadetail_reservationnumber_sort>1340</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Schulte, Peytan</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC5</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-20</sadetail_begindate_sort>
+    <DT_RowId>10438490</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>70</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime>10:00 am</sadetail_begintime>
+    <sadetail_endtime>11:30 am</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC5</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 5 (204) on 05/17/2023 at 10:00 am to 11:30 am at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 5 (204)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>10:00 am - 11:30 am</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1430</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC5</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>10810852</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>71</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/24/2023</sadetail_begindate>
+    <sadetail_enddate>05/24/2023</sadetail_enddate>
+    <sadetail_begintime>10:00 am</sadetail_begintime>
+    <sadetail_endtime>11:30 am</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC5</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 5 (204) on 05/24/2023 at 10:00 am to 11:30 am at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 5 (204)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>10:00 am - 11:30 am</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>ELA</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1430</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Hart, Joe</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC5</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-24</sadetail_begindate_sort>
+    <DT_RowId>10810853</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>72</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/23/2023</sadetail_begindate>
+    <sadetail_enddate>05/23/2023</sadetail_enddate>
+    <sadetail_begintime> 3:00 pm</sadetail_begintime>
+    <sadetail_endtime> 3:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC2</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 2 (124) on 05/23/2023 at  3:00 pm to  3:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 2 (124)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 3:00 pm -  3:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Bid Opening</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1464</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Mel Robson</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC2</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-23</sadetail_begindate_sort>
+    <DT_RowId>10983739</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>73</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/23/2023</sadetail_begindate>
+    <sadetail_enddate>05/23/2023</sadetail_enddate>
+    <sadetail_begintime> 3:00 pm</sadetail_begintime>
+    <sadetail_endtime> 3:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1, 2, 3 (124 &amp; 125) on 05/23/2023 at  3:00 pm to  3:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1, 2, 3 (124 &amp; 125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 3:00 pm -  3:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Bid Opening</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1464</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Mel Robson</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-23</sadetail_begindate_sort>
+    <DT_RowId>10983740</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>74</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/23/2023</sadetail_begindate>
+    <sadetail_enddate>05/23/2023</sadetail_enddate>
+    <sadetail_begintime> 3:00 pm</sadetail_begintime>
+    <sadetail_endtime> 3:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO2</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 2 &amp; 3 (124 ) on 05/23/2023 at  3:00 pm to  3:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 2 &amp; 3 (124 )</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 3:00 pm -  3:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Bid Opening</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1464</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Mel Robson</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO2</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-23</sadetail_begindate_sort>
+    <DT_RowId>10983741</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>75</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/18/2023</sadetail_begindate>
+    <sadetail_enddate>05/18/2023</sadetail_enddate>
+    <sadetail_begintime> 8:30 am</sadetail_begintime>
+    <sadetail_endtime> 9:30 am</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC2</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 2 (124) on 05/18/2023 at  8:30 am to  9:30 am at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 2 (124)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 8:30 am -  9:30 am</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Wellness Committee - Yoga</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1496</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Varner, Chris</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC2</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-18</sadetail_begindate_sort>
+    <DT_RowId>11116784</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>78</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/18/2023</sadetail_begindate>
+    <sadetail_enddate>05/18/2023</sadetail_enddate>
+    <sadetail_begintime> 8:30 am</sadetail_begintime>
+    <sadetail_endtime> 9:30 am</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC3</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 3 (124) on 05/18/2023 at  8:30 am to  9:30 am at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 3 (124)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 8:30 am -  9:30 am</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Wellness Committee - Yoga</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1496</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Varner, Chris</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC3</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-18</sadetail_begindate_sort>
+    <DT_RowId>11116785</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>79</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/18/2023</sadetail_begindate>
+    <sadetail_enddate>05/18/2023</sadetail_enddate>
+    <sadetail_begintime> 8:30 am</sadetail_begintime>
+    <sadetail_endtime> 9:30 am</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1, 2, 3 (124 &amp; 125) on 05/18/2023 at  8:30 am to  9:30 am at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1, 2, 3 (124 &amp; 125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 8:30 am -  9:30 am</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Wellness Committee - Yoga</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1496</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Varner, Chris</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-18</sadetail_begindate_sort>
+    <DT_RowId>11116783</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>77</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/18/2023</sadetail_begindate>
+    <sadetail_enddate>05/18/2023</sadetail_enddate>
+    <sadetail_begintime> 8:30 am</sadetail_begintime>
+    <sadetail_endtime> 9:30 am</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO2</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 2 &amp; 3 (124 ) on 05/18/2023 at  8:30 am to  9:30 am at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 2 &amp; 3 (124 )</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 8:30 am -  9:30 am</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Wellness Committee - Yoga</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1496</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Varner, Chris</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO2</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-18</sadetail_begindate_sort>
+    <DT_RowId>11116782</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>76</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime> 2:00 pm</sadetail_begintime>
+    <sadetail_endtime> 3:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>Meeting2</frfacility_facilitycode>
+    <sadetail_description>Meeting Room (231) on 05/17/2023 at  2:00 pm to  3:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Meeting Room (231)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 2:00 pm -  3:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Summer Inclusion Meeting</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1512</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Meggan Davies</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>Meeting2</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>11209181</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>80</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/18/2023</sadetail_begindate>
+    <sadetail_enddate>05/18/2023</sadetail_enddate>
+    <sadetail_begintime>11:30 am</sadetail_begintime>
+    <sadetail_endtime> 1:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>Meeting2</frfacility_facilitycode>
+    <sadetail_description>Meeting Room (231) on 05/18/2023 at 11:30 am to  1:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Meeting Room (231)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod>11:30 am -  1:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Team Camp</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1513</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Mel Robson</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>Meeting2</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-18</sadetail_begindate_sort>
+    <DT_RowId>11216476</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>81</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/22/2023</sadetail_begindate>
+    <sadetail_enddate>05/22/2023</sadetail_enddate>
+    <sadetail_begintime> 2:00 pm</sadetail_begintime>
+    <sadetail_endtime> 3:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>Meeting1</frfacility_facilitycode>
+    <sadetail_description>Meeting Room (106) on 05/22/2023 at  2:00 pm to  3:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Meeting Room (106)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 2:00 pm -  3:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Family Meeting</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1514</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Becca Luecke</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>Meeting1</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-22</sadetail_begindate_sort>
+    <DT_RowId>11217000</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>82</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/22/2023</sadetail_begindate>
+    <sadetail_enddate>05/22/2023</sadetail_enddate>
+    <sadetail_begintime> 1:00 pm</sadetail_begintime>
+    <sadetail_endtime> 2:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>Meeting1</frfacility_facilitycode>
+    <sadetail_description>Meeting Room (106) on 05/22/2023 at  1:00 pm to  2:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Meeting Room (106)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 1:00 pm -  2:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Interview</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1515</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Becca Luecke</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>Meeting1</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-22</sadetail_begindate_sort>
+    <DT_RowId>11217026</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>83</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/23/2023</sadetail_begindate>
+    <sadetail_enddate>05/23/2023</sadetail_enddate>
+    <sadetail_begintime> 4:30 pm</sadetail_begintime>
+    <sadetail_endtime> 5:30 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>Meeting1</frfacility_facilitycode>
+    <sadetail_description>Meeting Room (106) on 05/23/2023 at  4:30 pm to  5:30 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Meeting Room (106)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 4:30 pm -  5:30 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Family Meeting</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1517</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Sharrar, Koren</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>Meeting1</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-23</sadetail_begindate_sort>
+    <DT_RowId>11255154</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>84</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime> 4:00 pm</sadetail_begintime>
+    <sadetail_endtime> 4:45 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>Meeting1</frfacility_facilitycode>
+    <sadetail_description>Meeting Room (106) on 05/17/2023 at  4:00 pm to  4:45 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Meeting Room (106)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 4:00 pm -  4:45 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Interview</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1519</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>Nicholas Falter</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>Meeting1</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>11255426</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>85</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime> 4:15 pm</sadetail_begintime>
+    <sadetail_endtime> 5:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>REC3</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 3 (124) on 05/17/2023 at  4:15 pm to  5:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 3 (124)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility</sadetail_reservationtype>
+    <sadetail_timeperiod> 4:15 pm -  5:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Interview</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1520</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>White, Erin</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>REC3</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>11264487</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>86</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime> 4:15 pm</sadetail_begintime>
+    <sadetail_endtime> 5:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 1, 2, 3 (124 &amp; 125) on 05/17/2023 at  4:15 pm to  5:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 1, 2, 3 (124 &amp; 125)</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 4:15 pm -  5:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Interview</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1520</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>White, Erin</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>11264488</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>87</DT_Record>
+  </ttReportRow>
+  <ttReportRow>
+    <sadetail_begindate>05/17/2023</sadetail_begindate>
+    <sadetail_enddate>05/17/2023</sadetail_enddate>
+    <sadetail_begintime> 4:15 pm</sadetail_begintime>
+    <sadetail_endtime> 5:00 pm</sadetail_endtime>
+    <frfacility_facilitylocation>NSSRA</frfacility_facilitylocation>
+    <frfacility_facilitycode>RECCOMBO2</frfacility_facilitycode>
+    <sadetail_description>Recreation Room 2 &amp; 3 (124 ) on 05/17/2023 at  4:15 pm to  5:00 pm at NSSRA</sadetail_description>
+    <sadetail_itemdescription>Recreation Room 2 &amp; 3 (124 )</sadetail_itemdescription>
+    <sadetail_reservationtype>Facility Tree</sadetail_reservationtype>
+    <sadetail_timeperiod> 4:15 pm -  5:00 pm</sadetail_timeperiod>
+    <sadetail_vsifunction-reservationpurpose>Interview</sadetail_vsifunction-reservationpurpose>
+    <sadetail_reservationnumber_sort>1520</sadetail_reservationnumber_sort>
+    <saperson_organizationornamelastfirst_sort>White, Erin</saperson_organizationornamelastfirst_sort>
+    <frfacility_facilityclass_sort>ROOM</frfacility_facilityclass_sort>
+    <frfacility_facilitylocation_sort>NSSRA</frfacility_facilitylocation_sort>
+    <frfacility_facilitycode_sort>RECCOMBO2</frfacility_facilitycode_sort>
+    <sadetail_begindate_sort>2023-05-17</sadetail_begindate_sort>
+    <DT_RowId>11264489</DT_RowId>
+    <DT_AllowChange>Yes</DT_AllowChange>
+    <DT_Record>88</DT_Record>
+  </ttReportRow>
+</ttReport>

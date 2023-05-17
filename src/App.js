@@ -1,10 +1,11 @@
 import './App.css';
-import GatorEvents from './components/gators';
+//import GatorEvents from './components/gators';
+import BuildingSchedule from './components/buildingSchedule';
 
 function App() {
-  return (
+  return ( 
     <div>
-        <GatorEvents />
+        <BuildingSchedule />
     </div>
   );
 
