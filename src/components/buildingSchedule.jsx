@@ -1,8 +1,18 @@
 import React, { useEffect, useState } from 'react';
+import './css/buildingSchedule.css'; // Import the CSS file
+import Box from '@mui/material/Box';
+import Card from '@mui/material/Card';
+//import CardActions from '@mui/material/CardActions';
+import CardContent from '@mui/material/CardContent';
+import Button from '@mui/material/Button';
+import Typography from '@mui/material/Typography';
+
+
 //import { parseXMLData } from './utility/xmlParser';
 
 function BuildingSchedule() {
   const [scheduleList, setScheduleList] = useState([]);
+  const [currentDate, setCurrentDate] = useState('');
 
   useEffect(() => {
     const fetchXMLData = async () => {
@@ -23,7 +33,7 @@ function BuildingSchedule() {
           const reservationPurpose = row.getElementsByTagName('sadetail_vsifunction-reservationpurpose')[0].textContent;
 
           // Exclude rows with specific mentions
-          const excludeMentions = ['ELA', 'training', 'meeting', 'Committee', 'prep','orientation'];
+          const excludeMentions = ['ELA', 'training', 'meeting', 'Committee', 'prep', 'orientation'];
           const hasExcludedMention = excludeMentions.some((mention) => reservationPurpose.toLowerCase().includes(mention.toLowerCase()));
 
           // Remove rows with three or more numbers in a row
@@ -43,17 +53,31 @@ function BuildingSchedule() {
           const facilityRoom = row.getElementsByTagName('sadetail_itemdescription')[0].textContent;
 
           return (
-            <div key={index}>
-              <p><strong>{reservationPurpose}</strong></p>
-              <p>Room: {facilityRoom}</p>
-              <p>Begin Date: {beginDate}</p>
-              <p>Time: {beginTime} - {endTime}</p>
-            </div>
+            <React.Fragment>
+              <CardContent>
+                <Typography variant="h5" color="text.secondary" gutterBottom>
+                  {reservationPurpose}
+                </Typography>
+                
+                <Typography variant="subtitle1">
+                {facilityRoom}
+                </Typography>
+                <Typography variant="subtitle2" >
+                {beginTime} - {endTime}
+                </Typography>
+              </CardContent>
+            </React.Fragment>
           );
+
+
         });
 
         setScheduleList(scheduleItems);
-        console.log('Success');
+
+        // Set the current date
+        const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+        setCurrentDate(today.toLocaleDateString(undefined, options));
+        
       } catch (error) {
         console.error(error);
       }
@@ -63,11 +87,44 @@ function BuildingSchedule() {
   }, []);
 
   return (
-    <div>
-      <h2>Building Schedule</h2>
-      <ul>{scheduleList}</ul>
-    </div>
+    <Box sx={{ minWidth: 100 }}>
+      <Card variant="outlined">{scheduleList}</Card>
+    </Box>
   );
 }
 
+
+
 export default BuildingSchedule;
+
+
+/*import * as React from 'react';
+import Box from '@mui/material/Box';
+import List from '@mui/material/List';
+import ListItem from '@mui/material/ListItem';
+import ListItemButton from '@mui/material/ListItemButton';
+import ListItemIcon from '@mui/material/ListItemIcon';
+import ListItemText from '@mui/material/ListItemText';
+import Divider from '@mui/material/Divider';
+import InboxIcon from '@mui/icons-material/Inbox';
+import DraftsIcon from '@mui/icons-material/Drafts';
+
+export default function BasicList() {
+  return (
+    <Box sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
+  
+        <List>
+          <ListItem disablePadding>
+            <ListItemButton>
+              <ListItemText primary="Trash" />
+            </ListItemButton>
+          </ListItem>
+          <ListItem disablePadding>
+            <ListItemButton component="a" href="#simple-list">
+              <ListItemText primary="Spam" />
+            </ListItemButton>
+          </ListItem>
+        </List>
+    </Box>
+  );
+}*/
