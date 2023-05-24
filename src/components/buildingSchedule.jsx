@@ -58,11 +58,10 @@ function BuildingSchedule() {
                 <Typography variant="h5" color="text.secondary" gutterBottom>
                   {reservationPurpose}
                 </Typography>
-                
                 <Typography variant="subtitle1">
                 {facilityRoom}
                 </Typography>
-                <Typography variant="subtitle2" >
+                <Typography variant="subtitle2" component="div">
                 {beginTime} - {endTime}
                 </Typography>
               </CardContent>
