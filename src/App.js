@@ -4,8 +4,8 @@ import GatorEvents from './components/gators';
 function App() {
   return (
     <div>
-        <GatorEvents />
-    </div>
+        <GatorEvents /> 
+    </div> 
   );
 
 }
