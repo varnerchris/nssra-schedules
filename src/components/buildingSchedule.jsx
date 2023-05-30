@@ -12,6 +12,7 @@ import Typography from "@mui/material/Typography";
 function BuildingSchedule() {
   const [scheduleList, setScheduleList] = useState([]);
   const [currentDate, setCurrentDate] = useState("");
+  const MAX_DISPLAY_ITEMS = 5; // Define the maximum number of items to display
 
   console.log(currentDate);
 
@@ -101,6 +102,7 @@ function BuildingSchedule() {
             const bDate = new Date(`${b.beginDate} ${b.beginTime}`);
             return aDate - bDate;
           })
+          .slice(0, MAX_DISPLAY_ITEMS) // Slice the array to include only the first 5 items
           .map((item, index) => {
             const { reservationPurpose, beginTime, endTime, facilityRoom } =
               item;
