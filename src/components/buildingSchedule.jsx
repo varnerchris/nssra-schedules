@@ -35,7 +35,6 @@ function BuildingSchedule() {
           // Exclude rows with specific mentions
           const excludeMentions = [
             "ELA",
-            "training",
             "meeting",
             "Committee",
             "prep",
@@ -87,8 +86,14 @@ function BuildingSchedule() {
             // Convert today's date to the same format as programDate
             const todayDateString = today.toISOString().split("T")[0];
 
-            // Filter out programs that are not scheduled for today
-            return programDate.toISOString().split("T")[0] === todayDateString;
+            // Filter out programs whose end times have passed for today
+            const currentTime = today.getTime();
+            return (
+              programDate.toISOString().split("T")[0] === todayDateString &&
+              new Date(
+                `${programDate.toISOString().split("T")[0]} ${item.endTime}`
+              ).getTime() > currentTime
+            );
           })
 
           .sort((a, b) => {
@@ -125,17 +130,33 @@ function BuildingSchedule() {
         // Set the current date
         const options = {
           weekday: "long",
-          year: "numeric",
           month: "long",
           day: "numeric",
         };
 
         setCurrentDate(today.toLocaleDateString(undefined, options));
 
+        const noPrograms = (
+          <Box
+            sx={{
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+              height: "100vh",
+            }}
+          >
+            <Card variant="outlined" sx={{ width: 300 }}>
+              <CardContent>
+                <Typography variant="h5" color="text.secondary">
+                  No programs scheduled for {currentDate}.
+                </Typography>
+              </CardContent>
+            </Card>
+          </Box>
+        );
+
         setScheduleList(
-          scheduleItems.length === 0
-            ? `No programs scheduled ${currentDate}.`
-            : scheduleItems
+          scheduleItems.length === 0 ? [noPrograms] : scheduleItems
         );
       } catch (error) {
         console.error(error);
@@ -148,7 +169,29 @@ function BuildingSchedule() {
   return (
     <React.Fragment>
       {scheduleList.length === 0 ? (
-        <h1>{scheduleList}</h1>
+        <Box
+          sx={{
+            minWidth: 100,
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            height: "100vh",
+          }}
+        >
+          <Card
+            variant="outlined"
+            sx={{
+              marginBottom: 2,
+              width: 300,
+            }}
+          >
+            <CardContent>
+              <Typography variant="h5" color="text.secondary">
+                No programs scheduled today.
+              </Typography>
+            </CardContent>
+          </Card>
+        </Box>
       ) : (
         <Box sx={{ minWidth: 100 }}>{scheduleList}</Box>
       )}
