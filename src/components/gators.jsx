@@ -10,7 +10,8 @@ function GatorEvents() {
     const fetchEvents = async () => {
       try {
         const response = await fetch(
-          "https://winpark.org/wp-json/wp/v2/posts/"
+          //"https://winpark.org/wp-json/wp/v2/posts/"
+          "https://www.nssra.org/wp-json/wp/v2/gators/"
         ); // Testing Endpoint
 
         const data = await response.json();
