@@ -12,7 +12,7 @@ import Typography from "@mui/material/Typography";
 function BuildingSchedule() {
   const [scheduleList, setScheduleList] = useState([]);
   const [currentDate, setCurrentDate] = useState("");
-  const MAX_DISPLAY_ITEMS = 5; // Define the maximum number of items to display
+  const MAX_DISPLAY_ITEMS = 4; // Define the maximum number of items to display
 
   console.log(currentDate);
 
@@ -40,6 +40,7 @@ function BuildingSchedule() {
             "Committee",
             "prep",
             "orientation",
+            "training",
           ];
           //const excludeMentions = ["tomato"];
           const hasExcludedMention = excludeMentions.some((mention) =>
@@ -195,7 +196,10 @@ function BuildingSchedule() {
           </Card>
         </Box>
       ) : (
-        <Box sx={{ minWidth: 100 }}>{scheduleList}</Box>
+        <Box sx={{ minWidth: 100 }}>
+          <h1>Program Schedule</h1>
+          {scheduleList}
+        </Box>
       )}
     </React.Fragment>
   );
