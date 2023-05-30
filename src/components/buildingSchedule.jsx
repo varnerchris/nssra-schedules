@@ -28,9 +28,7 @@ function BuildingSchedule() {
 
         // Filter and process rows with begin date after today and exclude specific mentions
         const filteredRows = Array.from(rows).filter((row) => {
-          const beginDate = row.getElementsByTagName('sadetail_begindate')[0].textContent;
-          const parsedDate = new Date(beginDate);
-
+          //const beginDate = row.getElementsByTagName('sadetail_begindate')[0].textContent;
           const reservationPurpose = row.getElementsByTagName('sadetail_vsifunction-reservationpurpose')[0].textContent;
 
           // Exclude rows with specific mentions
@@ -41,10 +39,10 @@ function BuildingSchedule() {
           // Remove rows with three or more numbers in a row
           const hasThreeOrMoreNumbers = /\d{3,}/.test(reservationPurpose);
 
-          //Return rows after today that exclude any mentions, have a reservation purpose, or include an activity code
+          //Return exclude any mentions, have a reservation purpose, or include an activity code
           
-          return parsedDate >= today && !hasExcludedMention && reservationPurpose && !hasThreeOrMoreNumbers;
-          
+          return !hasExcludedMention && reservationPurpose && !hasThreeOrMoreNumbers;
+
 
         });
 
