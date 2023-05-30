@@ -11,11 +11,13 @@ function GatorEvents() {
     const fetchEvents = async () => {
       try {
         const response = await fetch(
-          "https://www.nssra.org/wp-json/wp/v2/gators/"
+          "https://www.nssra.org/wp-json/wp/v2/gators?&per_page=100"
         ); // Final endpoint
 
         const data = await response.json();
+        console.log(data);
         const currentDate = new Date(); // Get the current date and time
+        console.log(currentDate);
 
         const allEvents = data
           .map((event) => {
@@ -51,6 +53,7 @@ function GatorEvents() {
             };
           })
           .filter((event) => event.dateTime >= currentDate) // Filter out events that have already passed
+
           .sort((a, b) => a.dateTime - b.dateTime) // Sort events by start date
           .slice(0, MAX_DISPLAY_ITEMS) // Slice the array to include only the first 3 items
           .map((event) => (
