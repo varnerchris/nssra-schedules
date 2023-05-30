@@ -6,6 +6,7 @@ import gatorLogo from "./images/gatorLogo.png";
 function GatorEvents() {
   const [events, setEvents] = useState([]);
   const MAX_DISPLAY_ITEMS = 3;
+
   useEffect(() => {
     const fetchEvents = async () => {
       try {
@@ -15,6 +16,7 @@ function GatorEvents() {
         ); // Testing Endpoint
 
         const data = await response.json();
+
         const allEvents = data
           .map((event) => (
             <Box
@@ -23,8 +25,15 @@ function GatorEvents() {
                 marginRight: 8,
               }}
             >
-              <Typography variant="h5" color="success.dark">
-                {event.title.rendered}
+              <Typography variant="h5" color="white">
+                Gator {event.acf.color} {event.acf.sport} vs{" "}
+                {event.acf.opponent}
+              </Typography>
+              <Typography variant="body1" color="success.dark">
+                {event.acf.date_and_time}
+              </Typography>
+              <Typography variant="body2" color="success.dark">
+                {event.acf.location}
               </Typography>
             </Box>
           ))
