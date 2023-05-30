@@ -33,8 +33,15 @@ function BuildingSchedule() {
           )[0].textContent;
 
           // Exclude rows with specific mentions
-          //const excludeMentions = ['ELA', 'training', 'meeting', 'Committee', 'prep', 'orientation'];
-          const excludeMentions = ["tomato"];
+          const excludeMentions = [
+            "ELA",
+            "training",
+            "meeting",
+            "Committee",
+            "prep",
+            "orientation",
+          ];
+          //const excludeMentions = ["tomato"];
           const hasExcludedMention = excludeMentions.some((mention) =>
             reservationPurpose.toLowerCase().includes(mention.toLowerCase())
           );
@@ -90,13 +97,8 @@ function BuildingSchedule() {
             return aDate - bDate;
           })
           .map((item, index) => {
-            const {
-              reservationPurpose,
-              beginDate,
-              beginTime,
-              endTime,
-              facilityRoom,
-            } = item;
+            const { reservationPurpose, beginTime, endTime, facilityRoom } =
+              item;
             return (
               <React.Fragment key={index}>
                 <Card
@@ -120,8 +122,6 @@ function BuildingSchedule() {
             );
           });
 
-        setScheduleList(scheduleItems);
-
         // Set the current date
         const options = {
           weekday: "long",
@@ -129,47 +129,31 @@ function BuildingSchedule() {
           month: "long",
           day: "numeric",
         };
+
         setCurrentDate(today.toLocaleDateString(undefined, options));
+
+        setScheduleList(
+          scheduleItems.length === 0
+            ? `No programs scheduled ${currentDate}.`
+            : scheduleItems
+        );
       } catch (error) {
         console.error(error);
       }
     };
 
     fetchXMLData();
-  }, []);
+  }, [currentDate]);
 
-  return <Box sx={{ minWidth: 100 }}>{scheduleList}</Box>;
+  return (
+    <React.Fragment>
+      {scheduleList.length === 0 ? (
+        <h1>{scheduleList}</h1>
+      ) : (
+        <Box sx={{ minWidth: 100 }}>{scheduleList}</Box>
+      )}
+    </React.Fragment>
+  );
 }
 
 export default BuildingSchedule;
-
-/*import * as React from 'react';
-import Box from '@mui/material/Box';
-import List from '@mui/material/List';
-import ListItem from '@mui/material/ListItem';
-import ListItemButton from '@mui/material/ListItemButton';
-import ListItemIcon from '@mui/material/ListItemIcon';
-import ListItemText from '@mui/material/ListItemText';
-import Divider from '@mui/material/Divider';
-import InboxIcon from '@mui/icons-material/Inbox';
-import DraftsIcon from '@mui/icons-material/Drafts';
-
-export default function BasicList() {
-  return (
-    <Box sx={{ width: '100%', maxWidth: 360, bgcolor: 'background.paper' }}>
-  
-        <List>
-          <ListItem disablePadding>
-            <ListItemButton>
-              <ListItemText primary="Trash" />
-            </ListItemButton>
-          </ListItem>
-          <ListItem disablePadding>
-            <ListItemButton component="a" href="#simple-list">
-              <ListItemText primary="Spam" />
-            </ListItemButton>
-          </ListItem>
-        </List>
-    </Box>
-  );
-}*/
