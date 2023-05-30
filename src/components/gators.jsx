@@ -61,10 +61,23 @@ function GatorEvents() {
       <Box
         sx={{
           marginRight: 8,
+          width: 480,
+          height: 100,
+          marginTop: -3,
         }}
       >
-        {logo}
+        <img
+          src={logo}
+          alt="gator logo"
+          style={{
+            maxWidth: "100%",
+            maxHeight: "100%",
+            width: "auto",
+            height: "auto",
+          }}
+        />
       </Box>
+
       {events}
     </Box>
   );
