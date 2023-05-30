@@ -4,7 +4,7 @@ import Box from '@mui/material/Box';
 import Card from '@mui/material/Card';
 //import CardActions from '@mui/material/CardActions';
 import CardContent from '@mui/material/CardContent';
-import Button from '@mui/material/Button';
+//import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 
 
@@ -46,7 +46,7 @@ function BuildingSchedule() {
 
         // Create a list of filtered rows
         const scheduleItems = filteredRows.map((row, index) => {
-          const beginDate = row.getElementsByTagName('sadetail_begindate')[0].textContent;
+          //const beginDate = row.getElementsByTagName('sadetail_begindate')[0].textContent;
           const beginTime = row.getElementsByTagName('sadetail_begintime')[0].textContent;
           const endTime = row.getElementsByTagName('sadetail_endtime')[0].textContent;
           const reservationPurpose = row.getElementsByTagName('sadetail_vsifunction-reservationpurpose')[0].textContent;
