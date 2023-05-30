@@ -18,27 +18,47 @@ function GatorEvents() {
         const data = await response.json();
 
         const allEvents = data
-          .map((event) => (
-            <Box
-              key={event.id}
-              sx={{
-                marginRight: 8,
-              }}
-            >
-              <Typography variant="h5" color="white">
-                Gator {event.acf.color} {event.acf.sport} vs{" "}
-                {event.acf.opponent}
-              </Typography>
-              <Typography variant="body1" color="success.dark">
-                {event.acf.date_and_time}
-              </Typography>
-              <Typography variant="body2" color="success.dark">
-                {event.acf.location}
-              </Typography>
-            </Box>
-          ))
-          .slice(0, MAX_DISPLAY_ITEMS); // Slice the array to include only the first 5 items;
+          .map((event) => {
+            const sport =
+              event.acf.sport.charAt(0).toUpperCase() +
+              event.acf.sport.slice(1);
+            const teamColor = event.acf.team_color;
+            const opponent = event.acf.opponent;
+            const dateTime = new Date(event.acf.date_and_time);
+            const location = event.acf.location;
 
+            const formattedDate = dateTime.toLocaleDateString(undefined, {
+              weekday: "long",
+              month: "long",
+              day: "numeric",
+            });
+
+            const formattedTime = dateTime.toLocaleTimeString(undefined, {
+              hour: "numeric",
+              minute: "numeric",
+              hour12: true,
+            });
+
+            return (
+              <Box
+                key={event.id}
+                sx={{
+                  marginRight: 8,
+                }}
+              >
+                <Typography variant="h5" color="white">
+                  Gator {teamColor} {sport} vs {opponent}
+                </Typography>
+                <Typography variant="body1" color="success.dark">
+                  {formattedDate} at {formattedTime}
+                </Typography>
+                <Typography variant="body2" color="success.dark">
+                  {location}
+                </Typography>
+              </Box>
+            );
+          })
+          .slice(0, MAX_DISPLAY_ITEMS); // Slice the array to include only the first 3 items
         setEvents(allEvents);
       } catch (error) {
         console.error(error);
