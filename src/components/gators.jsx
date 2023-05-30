@@ -11,11 +11,11 @@ function GatorEvents() {
     const fetchEvents = async () => {
       try {
         const response = await fetch(
-          //"https://winpark.org/wp-json/wp/v2/posts/"
           "https://www.nssra.org/wp-json/wp/v2/gators/"
-        ); // Testing Endpoint
+        ); // Final endpoint
 
         const data = await response.json();
+        const currentDate = new Date(); // Get the current date and time
 
         const allEvents = data
           .map((event) => {
@@ -39,26 +39,40 @@ function GatorEvents() {
               hour12: true,
             });
 
-            return (
-              <Box
-                key={event.id}
-                sx={{
-                  marginRight: 8,
-                }}
-              >
-                <Typography variant="h5" color="white">
-                  Gator {teamColor} {sport} vs {opponent}
-                </Typography>
-                <Typography variant="body1" color="success.dark">
-                  {formattedDate} at {formattedTime}
-                </Typography>
-                <Typography variant="body2" color="success.dark">
-                  {location}
-                </Typography>
-              </Box>
-            );
+            return {
+              id: event.id,
+              sport,
+              teamColor,
+              opponent,
+              dateTime,
+              location,
+              formattedDate,
+              formattedTime,
+            };
           })
-          .slice(0, MAX_DISPLAY_ITEMS); // Slice the array to include only the first 3 items
+          .filter((event) => event.dateTime >= currentDate) // Filter out events that have already passed
+          .sort((a, b) => a.dateTime - b.dateTime) // Sort events by start date
+          .slice(0, MAX_DISPLAY_ITEMS) // Slice the array to include only the first 3 items
+          .map((event) => (
+            <Box
+              key={event.id}
+              sx={{
+                marginRight: 8,
+                width: 520,
+                marginTop: -2,
+              }}
+            >
+              <Typography variant="h5" color="white">
+                Gator {event.teamColor} {event.sport} vs {event.opponent}
+              </Typography>
+              <Typography variant="body1" color="success.dark">
+                {event.formattedDate} at {event.formattedTime}
+              </Typography>
+              <Typography variant="body2" color="success.dark">
+                {event.location}
+              </Typography>
+            </Box>
+          ));
         setEvents(allEvents);
       } catch (error) {
         console.error(error);
@@ -67,8 +81,6 @@ function GatorEvents() {
 
     fetchEvents();
   }, []);
-
-  //const maxBoxes = 3; // Maximum number of boxes to render
 
   const logo = gatorLogo;
 
@@ -91,7 +103,7 @@ function GatorEvents() {
       <Box
         sx={{
           marginRight: 8,
-          width: 480,
+          width: 300,
           height: 100,
           marginTop: -3,
         }}
