@@ -14,6 +14,8 @@ function BuildingSchedule() {
   const [scheduleList, setScheduleList] = useState([]);
   const [currentDate, setCurrentDate] = useState('');
 
+  console.log(currentDate);
+
   useEffect(() => {
     const fetchXMLData = async () => {
       try {
