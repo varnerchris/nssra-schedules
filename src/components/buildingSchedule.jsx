@@ -6,6 +6,10 @@ import Card from "@mui/material/Card";
 import CardContent from "@mui/material/CardContent";
 //import Button from '@mui/material/Button';
 import Typography from "@mui/material/Typography";
+import "@fontsource/roboto/300.css";
+import "@fontsource/roboto/400.css";
+import "@fontsource/roboto/500.css";
+import "@fontsource/roboto/700.css";
 
 //import { parseXMLData } from './utility/xmlParser';
 
@@ -197,7 +201,9 @@ function BuildingSchedule() {
         </Box>
       ) : (
         <Box sx={{ minWidth: 100 }}>
-          <h1>Program Schedule</h1>
+          <Typography variant="h4" component="h3" color="text.main">
+            Building Schedule
+          </Typography>
           {scheduleList}
         </Box>
       )}
