@@ -66,7 +66,8 @@ function GatorEvents() {
               }}
             >
               <Typography variant="h5" color="white">
-                Gator {event.teamColor} {event.sport} vs {event.opponent}
+                Gator {/*event.teamColor*/} {event.sport} {/*vs*/}{" "}
+                {/*event.opponent*/}
               </Typography>
               <Typography variant="body1" color="success.dark">
                 {event.formattedDate} at {event.formattedTime}
