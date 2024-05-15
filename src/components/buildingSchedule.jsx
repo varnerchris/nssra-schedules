@@ -45,6 +45,7 @@ function BuildingSchedule() {
             "prep",
             "orientation",
             "training",
+            "interview",
           ];
           //const excludeMentions = ["tomato"];
           const hasExcludedMention = excludeMentions.some((mention) =>
