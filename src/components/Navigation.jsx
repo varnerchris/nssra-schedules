@@ -1,14 +1,18 @@
-import { NavLink } from 'react-router-dom';
-
+// Navigation.jsx
+import React from "react";
+import { NavLink } from "react-router-dom";
+import { routeData } from "./Main"; // Importing routeData from Main.jsx
 
 const Navigation = () => (
-    <nav>
-        <ul>
-            <li><NavLink to='/'>Home</NavLink></li>
-            <li><NavLink to='/building'>Building Schedule</NavLink></li>
-            <li><NavLink to='/gators'>NSSRA Gators - Upcoming Games</NavLink></li>
-        </ul>
-    </nav>
+  <nav>
+    <ul>
+      {routeData.map((item, index) => (
+        <li key={index}>
+          <NavLink to={item.path}>{item.title}</NavLink>
+        </li>
+      ))}
+    </ul>
+  </nav>
 );
 
 export default Navigation;

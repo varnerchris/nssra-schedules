@@ -3,6 +3,12 @@ import Home from "./Home";
 import BuildingSchedule from "./buildingSchedule";
 import GatorEvents from "./gators";
 
+export const routeData = [
+  { path: "/", title: "Home" },
+  { path: "/building", title: "Building Schedule" },
+  { path: "/gators", title: "NSSRA Gators - Upcoming Games" },
+];
+
 const Main = () => (
   <Routes>
     <Route path="/" element={<Home />} />
