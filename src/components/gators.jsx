@@ -53,7 +53,6 @@ function GatorEvents() {
             };
           })
           .filter((event) => event.dateTime >= currentDate) // Filter out events that have already passed
-
           .sort((a, b) => a.dateTime - b.dateTime) // Sort events by start date
           .slice(0, MAX_DISPLAY_ITEMS) // Slice the array to include only the first 3 items
           .map((event) => (
@@ -65,16 +64,39 @@ function GatorEvents() {
                 marginTop: -2,
               }}
             >
-              <Typography variant="h5" color="white">
-                Gator {/*event.teamColor*/} {event.sport} {/*vs*/}{" "}
-                {/*event.opponent*/}
-              </Typography>
-              <Typography variant="body1" color="success.dark">
-                {event.formattedDate} at {event.formattedTime}
-              </Typography>
-              <Typography variant="body2" color="success.dark">
-                {event.location}
-              </Typography>
+              {event.opponent.includes("Tournament") ? (
+                <>
+                  <Typography variant="h5" color="white">
+                    {event.opponent}
+                  </Typography>
+                  <Typography variant="body1" color="success.dark">
+                    {event.formattedDate} at {event.formattedTime}
+                  </Typography>
+                  <Typography variant="body2" color="success.dark">
+                    {event.location}
+                  </Typography>
+                </>
+              ) : (
+                <>
+                  {event.sport === "Softball" ||
+                  event.sport === "Basketball" ||
+                  event.sport === "Volleyball" ? (
+                    <Typography variant="h5" color="white">
+                      Gator {event.teamColor} {event.sport} vs {event.opponent}
+                    </Typography>
+                  ) : (
+                    <Typography variant="body2" color="error.dark">
+                      Gator {event.sport}
+                    </Typography>
+                  )}
+                  <Typography variant="body1" color="success.dark">
+                    {event.formattedDate} at {event.formattedTime}
+                  </Typography>
+                  <Typography variant="body2" color="success.dark">
+                    {event.location}
+                  </Typography>
+                </>
+              )}
             </Box>
           ));
         setEvents(allEvents);
