@@ -109,102 +109,106 @@ function BuildingSchedule() {
           })
           .slice(0, MAX_DISPLAY_ITEMS) // Slice the array to include only the first 5 items
           .map((item, index) => {
-            const { reservationPurpose, beginTime, endTime, facilityRoom } = item;
+            const { reservationPurpose, beginTime, endTime, facilityRoom } =
+              item;
             return (
-              <Card
-                key={index}
-                variant="outlined"
-                sx={{
-                  marginBottom: 2,
-                  width: 300,
-                }}
-              >
-                <CardContent>
-                  <Typography variant="h5" color="text.secondary">
-                    {reservationPurpose}
-                  </Typography>
-                  <Typography variant="subtitle2">
-                    {beginTime} - {endTime}
-                  </Typography>
-                  <Typography variant="body2">{facilityRoom}</Typography>
-                </CardContent>
-              </Card>
-            );
-          });
-          
-          // Set the current date
-          const options = {
-            weekday: "long",
-            month: "long",
-            day: "numeric",
-          };
-          
-          setCurrentDate(today.toLocaleDateString(undefined, options));
-          
-          const noPrograms = (
-            <Box
-              sx={{
-                display: "flex",
-                alignItems: "center",
-                justifyContent: "center",
-                height: "100vh",
-              }}
-            >
-              <Card variant="outlined" sx={{ width: 300 }}>
-                <CardContent>
-                  <Typography variant="h5" color="text.secondary">
-                    No programs scheduled for {currentDate}.
-                  </Typography>
-                </CardContent>
-              </Card>
-            </Box>
-          );
-          
-          setScheduleList(scheduleItems.length === 0 ? [noPrograms] : scheduleItems);
-          
-          } catch (error) {
-            console.error(error);
-          }
-          
-          fetchXMLData();
-          }, [currentDate]);
-          
-          return (
-            <React.Fragment>
-              {scheduleList.length === 0 ? (
-                <Box
+              <React.Fragment key={index}>
+                <Card
+                  variant="outlined"
                   sx={{
-                    minWidth: 100,
-                    display: "flex",
-                    alignItems: "center",
-                    justifyContent: "center",
-                    height: "100vh",
+                    marginBottom: 2,
+                    width: 300,
                   }}
                 >
-                  <Card
-                    variant="outlined"
-                    sx={{
-                      marginBottom: 2,
-                      width: 300,
-                    }}
-                  >
-                    <CardContent>
-                      <Typography variant="h5" color="text.secondary">
-                        No programs scheduled today.
-                      </Typography>
-                    </CardContent>
-                  </Card>
-                </Box>
-              ) : (
-                <Box sx={{ minWidth: 100 }}>
-                  <Typography variant="h4" component="h3" color="text.primary" gutterBottom>
-                    Building Schedule
-                  </Typography>
-                  {scheduleList}
-                </Box>
-              )}
-            </React.Fragment>
-          );
-          
+                  <CardContent>
+                    <Typography variant="h5" color="text.secondary">
+                      {reservationPurpose}
+                    </Typography>
+                    <Typography variant="subtitle2" component="div">
+                      {beginTime} - {endTime}
+                    </Typography>
+                    <Typography variant="body2">{facilityRoom}</Typography>
+                  </CardContent>
+                </Card>
+              </React.Fragment>
+            );
+          });
+
+        // Set the current date
+        const options = {
+          weekday: "long",
+          month: "long",
+          day: "numeric",
+        };
+
+        setCurrentDate(today.toLocaleDateString(undefined, options));
+
+        const noPrograms = (
+          <Box
+            sx={{
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+              height: "100vh",
+            }}
+          >
+            <Card variant="outlined" sx={{ width: 300 }}>
+              <CardContent>
+                <Typography variant="h5" color="text.secondary">
+                  No programs scheduled for {currentDate}.
+                </Typography>
+              </CardContent>
+            </Card>
+          </Box>
+        );
+
+        setScheduleList(
+          scheduleItems.length === 0 ? [noPrograms] : scheduleItems
+        );
+      } catch (error) {
+        console.error(error);
+      }
+    };
+
+    fetchXMLData();
+  }, [currentDate]);
+
+  return (
+    <React.Fragment>
+      {scheduleList.length === 0 ? (
+        <Box
+          sx={{
+            minWidth: 100,
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            height: "100vh",
+          }}
+        >
+          <Card
+            variant="outlined"
+            sx={{
+              marginBottom: 2,
+              width: 300,
+            }}
+          >
+            <CardContent>
+              <Typography variant="h5" color="text.secondary">
+                No programs scheduled today.
+              </Typography>
+            </CardContent>
+          </Card>
+        </Box>
+      ) : (
+        <Box sx={{ minWidth: 100 }}>
+          <Typography variant="h4" component="h3" color="text.main">
+            Building Schedule
+          </Typography>
+          {scheduleList}
+        </Box>
+      )}
+    </React.Fragment>
+  );
+}
 
 export default BuildingSchedule;
