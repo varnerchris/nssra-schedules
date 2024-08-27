@@ -9,7 +9,7 @@ function DisplayEvents() {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLoaded, setIsLoaded] = useState(false); // State to handle content loading
   const [isContentVisible, setIsContentVisible] = useState(true); // State for fade-in effect
-  const [showOnlyWithImages, setShowOnlyWithImages] = useState(false); // State to filter by image presence
+  const [showOnlyWithImages] = useState(false); // State to filter by image presence
   const MAX_DISPLAY_ITEMS = 100; //max slides to show
   const SLIDESHOW_INTERVAL = 15000; // Interval in milliseconds (15 seconds)
 
