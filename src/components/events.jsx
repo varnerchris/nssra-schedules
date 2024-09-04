@@ -12,6 +12,7 @@ function DisplayEvents() {
   const [showOnlyWithImages] = useState(false); // State to filter by image presence
   const MAX_DISPLAY_ITEMS = 100; //max slides to show
   const SLIDESHOW_INTERVAL = 15000; // Interval in milliseconds (15 seconds)
+  const [backgroundColor, setBackgroundColor] = useState("");
 
   useEffect(() => {
     const fetchEvents = async () => {
@@ -65,6 +66,19 @@ function DisplayEvents() {
         setCurrentIndex(Math.floor(Math.random() * shuffledEvents.length));
         setIsLoaded(true); // Set loaded to true after data is fetched
 
+        // Array of color choices
+        const colors = [
+          "rgba(0, 168, 225, 0.8)", // Greenish
+          "rgba(255, 137, 61, 0.8)", // Bluish
+          "rgba(150, 201, 61, 0.8)", // Orangish
+        ];
+
+        // Randomly select a color
+        const randomColor = colors[Math.floor(Math.random() * colors.length)];
+
+        // Set the selected color as the background color
+        setBackgroundColor(randomColor);
+
         // Start slideshow
         const intervalId = setInterval(() => {
           setCurrentIndex(
@@ -93,7 +107,16 @@ function DisplayEvents() {
   }, [isLoaded]);
 
   const currentEvent = events[currentIndex];
-  console.log(currentEvent);
+  //console.log(currentEvent);
+
+  function decodeHtmlEntities(str) {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(
+      `<!doctype html><body>${str}`,
+      "text/html"
+    );
+    return doc.body.textContent;
+  }
 
   return (
     <div className="container">
@@ -111,7 +134,9 @@ function DisplayEvents() {
                 style={{ backgroundImage: `url(${currentEvent.image})` }}
               >
                 <div className="event-content">
-                  <h3 className="event-title">{currentEvent.title}</h3>
+                  <h3 className="event-title">
+                    {decodeHtmlEntities(currentEvent.title)}
+                  </h3>
                   <p className="event-date">
                     {new Date(currentEvent.start_date).toLocaleDateString(
                       "en-US",
@@ -138,9 +163,14 @@ function DisplayEvents() {
                 <img src={nssraLogo} alt="Logo" className="logo" />
               </div>
             ) : (
-              <div className="event-without-image">
+              <div
+                className="event-without-image"
+                style={{ backgroundColor: backgroundColor }}
+              >
                 <div className="event-content-no-image">
-                  <h3 className="event-title-no-image">{currentEvent.title}</h3>
+                  <h3 className="event-title">
+                    {decodeHtmlEntities(currentEvent.title)}
+                  </h3>
                   <p className="event-date-no-image">
                     {new Date(currentEvent.start_date).toLocaleDateString(
                       "en-US",

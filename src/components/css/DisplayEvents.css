@@ -1,170 +1,175 @@
+/* Ensure no overflow and scroll bars */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
 /* General styles for the container */
 .container {
-    width: 1920px;
-    height: 1080px;
-    position: relative;
-  }
-  
-  /* Styles for the color-moving effect */
-  .color-moving-wrapper {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    height: 100%;
-    justify-content: center;
-    align-items: center;
-    background: linear-gradient(
-      90deg,
-      rgba(0, 168, 225, 1) 0%,
-      rgba(150, 201, 61, 1) 50%,
-      rgba(255, 137, 61, 1) 100%
-    );
-    background-size: 200% 100%;
-    animation: color-moving 6s infinite;
-  }
-  
-  .color-moving {
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(
-      90deg,
-      rgba(0, 168, 225, 1) 0%,
-      rgba(150, 201, 61, 1) 50%,
-      rgba(255, 137, 61, 1) 100%
-    );
-    background-size: 200% 100%;
-    animation: color-moving 6s infinite;
-  }
-  
-  @keyframes color-moving {
-    0% {
-      background-position: 0% 0%;
-    }
-    100% {
-      background-position: 100% 0%;
-    }
-  }
-  
-  /* Styles for the logo */
-  .logo {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 150px;
-    height: auto;
-    z-index: 10;
-  }
-  
-  /* Fade-in effect */
-  .fade-in {
-    opacity: 0;
-    transition: opacity 1s ease-in;
-  }
-  
-  .fade-in.visible {
-    opacity: 1;
-  }
-  /* Universal Styles*/
- 
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
 
-  @font-face {
-    font-family: 'SF Pro Rounded Black';
-    src: ('/fonts/SF-Pro-Rounded-Black.otf') format('opentype');
-    font-weight: normal;
-    font-style: normal;
-  }
+/* Styles for the color-moving effect */
+.color-moving-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 168, 225, 1) 0%,
+    rgba(150, 201, 61, 1) 50%,
+    rgba(255, 137, 61, 1) 100%
+  );
+  background-size: 200% 100%;
+  animation: color-moving 6s infinite;
+}
 
-  .event-website{
-    font-family: 'SF Pro Rounded Black', sans-serif; 
-    font-size: 1.2em;
-    margin: 0;
-  }
+.color-moving {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 168, 225, 1) 0%,
+    rgba(150, 201, 61, 1) 50%,
+    rgba(255, 137, 61, 1) 100%
+  );
+  background-size: 200% 100%;
+  animation: color-moving 6s infinite;
+}
 
-  /* Styles for event with image */
-  .event-with-image {
-    width: 100%;
-    height: 1080px;
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    display: flex;
-    align-items: flex-end;
-    justify-content: flex-start;
+@keyframes color-moving {
+  0% {
+    background-position: 0% 0%;
   }
-  
-  .event-content {
-    padding: 20px;
-    margin-left: 100px;
-    margin-bottom: 80px;
-    color: white;
-    width: 100%;
-    max-width: 100%;
-    box-sizing: border-box;
-    z-index: 1;
+  100% {
+    background-position: 100% 0%;
   }
+}
 
-  .event-title {
-    font-family: 'SF Pro Rounded Black', sans-serif; 
-    font-size: 4em;
-    margin: 0 0 10px 0;
-  }
-  
-  .event-date {
-    font-family: 'SF Pro Rounded Black', sans-serif; 
-    font-size: 2em;
-    margin: 0;
-    margin: 0 0 10px 0;
-  }
-  
-  .event-description{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 1em;
-    width:500px;
-    line-height: 1.3em;
-  }
+/* Styles for the logo */
+.logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 150px;
+  height: auto;
+  z-index: 10;
+}
 
+/* Fade-in effect */
+.fade-in {
+  opacity: 0;
+  transition: opacity 1s ease-in;
+}
 
-  /* Styles for event without image */
-  .event-without-image {
-    width: 100%;
-    height: 1080px;
-    background-color:rgba(150, 201, 61, .6);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-  }
-  
-  .event-content-no-image {
-    text-align: center;
-    padding: 20px;
-    background-color: rgba(0, 0, 0, 0.8);
-    color: white;
-    max-width: 500px;
-    box-sizing: border-box;
-    width: 100%;
-    
-  }
-  
+.fade-in.visible {
+  opacity: 1;
+}
 
-  .event-title-no-image {
-    font-family: 'SF Pro Rounded Black', sans-serif; /* Apply the font here */
-    font-size: 3em;
-    margin: 0 0 10px 0;
-  }
-  
-  .event-date-no-image {
-    font-family: 'SF Pro Rounded Black', sans-serif; /* Apply the font here */
-    font-size: 1.5em;
-    margin: 0;
-  }
+/* Universal Styles*/
+@font-face {
+  font-family: 'SF Pro Rounded Black';
+  src: ('/fonts/SF-Pro-Rounded-Black.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
 
-  .event-description-no-image{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 1em;
-    width:100%;
-    line-height: 1.3em;
-    
-  }
+.event-website{
+  font-family: 'SF Pro Rounded Black', sans-serif; 
+  font-size: 1.2em;
+  margin: 0;
+}
 
+/* Styles for event with image */
+.event-with-image {
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+
+.event-content {
+  padding: 20px;
+  margin-left: 100px;
+  margin-bottom: 80px;
+  color: white;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  z-index: 1;
+}
+
+.event-title {
+  font-family: 'SF Pro Rounded Black', sans-serif; 
+  font-size: 4em;
+  margin: 0 0 10px 0;
+}
+
+.event-date {
+  font-family: 'SF Pro Rounded Black', sans-serif; 
+  font-size: 2em;
+  margin: 0;
+  margin: 0 0 10px 0;
+}
+
+.event-description{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  width:500px;
+  line-height: 1.3em;
+}
+
+/* Styles for event without image */
+.event-without-image {
+  width: 100%;
+  height: 100vh;
+  background-color:rgba(150, 201, 61, .6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.event-content-no-image {
+  text-align: center;
+  padding: 60px;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  max-width: 800px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.event-title-no-image {
+  font-family: 'SF Pro Rounded Black', sans-serif; /* Apply the font here */
+  font-size: 3em;
+  margin: 0 0 10px 0;
+}
+
+.event-date-no-image {
+  font-family: 'SF Pro Rounded Black', sans-serif; /* Apply the font here */
+  font-size: 1.5em;
+  margin: 0;
+}
+
+.event-description-no-image{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  width:100%;
+  line-height: 1.3em;
+}
