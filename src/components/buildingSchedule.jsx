@@ -23,7 +23,9 @@ function BuildingSchedule() {
   useEffect(() => {
     const fetchXMLData = async () => {
       try {
-        const response = await fetch("/building-schedule.xml");
+        const response = await fetch(
+          "https://chrvar16.dreamhosters.com/nssra-schedule/building-schedule.xml"
+        );
         const xmlData = await response.text();
         const parser = new DOMParser();
         const xmlDoc = parser.parseFromString(xmlData, "application/xml");
