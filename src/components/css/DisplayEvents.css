@@ -150,26 +150,30 @@ html, body {
   padding: 60px;
   background-color: rgba(0, 0, 0, 0.8);
   color: white;
-  max-width: 800px;
+  max-width: 80%;
   box-sizing: border-box;
   width: 100%;
 }
 
 .event-title-no-image {
   font-family: 'SF Pro Rounded Black', sans-serif; /* Apply the font here */
-  font-size: 3em;
+  font-size: 6em;
   margin: 0 0 10px 0;
 }
 
 .event-date-no-image {
   font-family: 'SF Pro Rounded Black', sans-serif; /* Apply the font here */
-  font-size: 1.5em;
+  font-size: 3em;
   margin: 0;
 }
 
 .event-description-no-image{
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 1em;
+  font-size: 2em;
   width:100%;
   line-height: 1.3em;
+}
+
+.event-description-no-image ul{
+  list-style: none;
 }
