@@ -3,12 +3,14 @@ import Home from "./Home";
 import BuildingSchedule from "./buildingSchedule";
 import GatorEvents from "./gators";
 import DisplayEvents from "./events";
+import EmployeeRecognition from "./employeeRecognition";
 
 export const routeData = [
   { path: "/", title: "Home" },
   { path: "/building", title: "Building Schedule" },
   { path: "/gators", title: "NSSRA Gators - Upcoming Games" },
   { path: "/events", title: "Special Events" },
+  { path: "/employee", title: "Employee Recognition" },
 ];
 
 const Main = () => (
@@ -17,6 +19,7 @@ const Main = () => (
     <Route path="/building" element={<BuildingSchedule />} />
     <Route path="/gators" element={<GatorEvents />} />
     <Route path="/events" element={<DisplayEvents />} />
+    <Route path="/employee" element={<EmployeeRecognition />} />
   </Routes>
 );
 
